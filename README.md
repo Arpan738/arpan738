@@ -92,15 +92,15 @@ arpan.sayHello();
 ```
 </details>  
 
-### My Current Status<br />
+## My Current Status<br />
 
   [![Discord Status Banner](https://discord.c99.nl/widget/theme-3/435492397258899467.png)](https://dsc.gg/zarena-world)
 
-### 🎧 Spotify Playing
+## 🎧 Spotify Playing
 
   [![If you're seeing this then the API is down](https://novatorem-itsbravestone.vercel.app/api/spotify)](https://open.spotify.com/user/hcyrrk9viwxcqml24olcli1p6)
 
-### 🚀 My Github Stats
+## 🚀 My Github Stats
  
   <img src="https://github-readme-stats.vercel.app/api?username=Arpan738&show_icons=true&hide=contribs&theme=tokyonight&include_all_commits=true&line_height=25" alt="github-stats" />
   
@@ -109,21 +109,17 @@ arpan.sayHello();
   <img src="https://github-profile-trophy.vercel.app?username=Arpan738" alt="github-trophies" />
 
 
-### ⚡ Some of my Good Stats
+## ⚡ Some of my Good Stats
 
-<details>
-  <summary>⚙️ My workspace</summary>
+### ⚙️ My workspace
 
   - **OS**: Windows 11 Home
   - **Browser**: Chrome
   - **Code Editor**: VSCode
   - **Music Player**: Spotify
-</details>
 
-<details>
-  <summary> 🛠 Tools I use for coding! </summary>
-
- Note: Hover over the icon to see their names.
+### 🛠 Tools I use for coding!
+Note: Hover over the icon to see their names.
  
 - Programming Languages
   
@@ -140,8 +136,11 @@ arpan.sayHello();
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" Title="HTML5"/> </a>&nbsp;&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" Title="CSS3"/> </a>&nbsp;&nbsp;
     <a href="https://sass-lang.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40" Title="SASS"/> </a>&nbsp;&nbsp;
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" Title="Bootstrap"/> </a> &nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" Title="ReactJS"/> </a>&nbsp;&nbsp;
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" Title="Bootstrap"/> </a> &nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" Title="Tailwind"/> </a> &nbsp;&nbsp;
+    <a href="https://reactjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" Title="ReactJS"/> </a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" Title="NextJS"/> </a>&nbsp;&nbsp;
+  <a href="https://vuejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" Title="VueJS"/> </a>&nbsp;&nbsp;
 
 - Backend Development
 
@@ -149,15 +148,8 @@ arpan.sayHello();
     <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" Title="Express"/> </a>&nbsp;&nbsp;
     <a href="https://www.nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" Title="NGINX"/> </a>
 
-- Mobile App Development
-
-    <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" Title="Android Studio"/> </a>&nbsp;&nbsp;
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" Title="React Native"/> </a> 
-
 - AI / ML
 
-    <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" Title="TensorFlow"/> </a>&nbsp;&nbsp;
-    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" Title="Scikit-learn"/> </a>&nbsp;&nbsp;
     <a href="https://opencv.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" Title="OpenCV"/> </a>&nbsp;&nbsp;
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" Title="Pandas"/> </a>&nbsp;&nbsp;
     <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" Title="NumPy"/> </a>
@@ -181,7 +173,6 @@ arpan.sayHello();
     <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" Title="Docker"/> </a>&nbsp;&nbsp;
     <a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" Title="Google Cloud Platform"/> </a>&nbsp;&nbsp;
     <a href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" Title="Kubernetes"/> </a>&nbsp;&nbsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" Title="Bash"/> </a>&nbsp;&nbsp;
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40" Title="Microsoft Azure"/> </a>&nbsp;&nbsp;
 
 - Backend as a Service(BaaS)
@@ -193,12 +184,11 @@ arpan.sayHello();
 
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" Title="Django"/> </a>&nbsp;&nbsp;
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" Title="Microsoft .NET"/> </a>&nbsp;&nbsp;
-    <a href="https://www.electronjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40" Title="Electron"/> </a>&nbsp;&nbsp;
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" Title="Flask"/> </a> 
 
 - Testing
 
-    <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" Title="Selenium"/> </a>&nbsp;&nbsp;
+    <a href="https://jestjs.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="selenium" width="40" height="40" Title="Jest"/> </a>&nbsp;&nbsp;
     <a href="https://mochajs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40" Title="Mocha"/> </a>&nbsp;&nbsp;
 
 - Software
@@ -209,17 +199,6 @@ arpan.sayHello();
     <a href="https://www.blender.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40" Title="Blender"/> </a>&nbsp;&nbsp;
     <a href="https://www.mathworks.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" Title="MATLAB"/> </a>&nbsp;&nbsp;
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" Title="Postman"/> </a> 
-
-- Static Site Generators
-
-    <a href="https://gohugo.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40" Title="Hugo"/> </a>&nbsp;&nbsp;
-    <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40" Title="Jekyll"/> </a>&nbsp;&nbsp;
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" Title="NextJS"/> </a>&nbsp;&nbsp;
-
-- Game Engines
-
-    <a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40" Title="Unity 3D Engine"/> </a>&nbsp;&nbsp;
-    <a href="https://unrealengine.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="40" height="40" Title="Unreal Engine"/> </a> 
 
 - Operating Systems
 
@@ -242,10 +221,7 @@ arpan.sayHello();
     <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" Title="GitHub"/> </a>&nbsp;&nbsp;
     <a href="https://gitlab.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" Title="GitLab"/> </a>
 
-</details>
-
-<details>
-  <summary>❤️ About my Coding styles, and preferences </summary>
+### ❤️ About my Coding styles, and preferences
   Note: The stats shown below are automatically generated by Wakatime API using Github action. <br /><br />
 
 <!--START_SECTION:waka-->
@@ -327,7 +303,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 
  Last Updated on 23/11/2024 14:03:34 UTC
 <!--END_SECTION:waka-->
-</details>
 
 <br />
 <div name="social"></div>
