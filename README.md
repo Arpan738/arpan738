@@ -100,6 +100,15 @@ arpan.sayHello();
 
   [![If you're seeing this then the API is down](https://novatorem-itsbravestone.vercel.app/api/spotify)](https://open.spotify.com/user/hcyrrk9viwxcqml24olcli1p6)
 
+### 🚀 My Github Stats
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpan738&show_icons=true&hide=contribs&theme=tokyonight&include_all_commits=true&line_height=25" alt="github-stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arpan738&theme=algolia&fire=cyan" alt="github-contributions" />
+  
+  <img src="https://github-profile-trophy.vercel.app?username=Arpan738" alt="github-trophies" />
+
+
 ### ⚡ Some of my Good Stats
 
 <details>
@@ -191,7 +200,6 @@ arpan.sayHello();
 
     <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" Title="Selenium"/> </a>&nbsp;&nbsp;
     <a href="https://mochajs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40" Title="Mocha"/> </a>&nbsp;&nbsp;
-    <a href="https://jasmine.github.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="jasmine" width="40" height="40" Title="Jasmine"/> </a> 
 
 - Software
 
@@ -204,11 +212,9 @@ arpan.sayHello();
 
 - Static Site Generators
 
-    <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="gatsby" width="40" height="40" Title="Gatsby"/> </a> &nbsp;&nbsp;
     <a href="https://gohugo.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40" Title="Hugo"/> </a>&nbsp;&nbsp;
     <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40" Title="Jekyll"/> </a>&nbsp;&nbsp;
     <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" Title="NextJS"/> </a>&nbsp;&nbsp;
-    <a href="https://scully.io/" target="_blank"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40" Title="Scully"/> </a>
 
 - Game Engines
 
@@ -227,7 +233,6 @@ arpan.sayHello();
 - Music platforms
 
     <a href="https://www.spotify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="40" height="40" Title="Spotify"/> </a>&nbsp;&nbsp;
-    <a href="https://soundcloud.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/soundcloud/soundcloud-icon.svg" alt="soundcloud" width="40" height="40" Title="SoundCloud"/> </a>&nbsp;&nbsp;
     <a href="https://music.youtube.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/youtube-music.png" alt="youtube-music" width="40" height="40" Title="YouTube Music"/> </a>
 
 - Others
@@ -236,18 +241,6 @@ arpan.sayHello();
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" Title="Git"/> </a> &nbsp;&nbsp;
     <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" Title="GitHub"/> </a>&nbsp;&nbsp;
     <a href="https://gitlab.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" Title="GitLab"/> </a>
-
-</details>
-
-<details>
-
-  <summary>📊 My Github Stats</summary>
- 
-  <p><img src="https://github-readme-stats.vercel.app/api?username=itsbravestone&show_icons=true&hide=contribs&theme=blueberry&include_all_commits=true&line_height=25" alt="steve" /></p>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbravestone&theme=algolia&fire=cyan" alt="steve" /></p>
-  
-  <p align="left"> <a href="https://github.com/itsbravestone"><img src="https://github-profile-trophy.vercel.app/?username=itsbravestone" alt="steve" /></a> </p>
 
 </details>
 
@@ -346,13 +339,9 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 [<img align="left" alt="Arpan | Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 [<img align="left" alt="Arpan | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="Arpan | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="Arpan | Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-[<img align="left" alt="Arpan | Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
-[<img align="left" alt="Arpan | Fandom" src="https://img.shields.io/badge/Fandom-00D6D6?style=for-the-badge&logo=fandom&logoColor=white" />][fandom]
-</div>
 
 [website]: https://google.com
-[twitter]: https://twitter.com/imbravestone
+[twitter]: https://x.com/aarpanpat
 [twitch]: https://www.twitch.tv/imbravestone
-[youtube]: https://www.youtube.com/channel/UCFY3Nt74SAb5iHpfsI5BxVA
-[instagram]: https://www.instagram.com/itsbravestone
+[youtube]: https://www.youtube.com/@iam_arpanpatra
+[instagram]: https://www.instagram.com/official_arpan7
