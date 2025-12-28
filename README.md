@@ -266,20 +266,16 @@ Sunday                   67 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 59 mins        ████████████████░░░░░░░░░   63.73 % 
-Bash                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mt-frontend              2 hrs 38 mins       █████████████████████░░░░   85.06 % 
-moneytree-sj             27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -298,7 +294,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arpan738/Arpan738/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 01:40:26 UTC
+ Last Updated on 28/12/2025 01:52:42 UTC
 <!--END_SECTION:waka-->
 
 <br />
